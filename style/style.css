@@ -44,6 +44,7 @@ main {
     width: 870px;
     border-radius: 5px;
     padding: 30px;
+    padding-top: 0;
     display: flex;
 }
 
@@ -53,6 +54,7 @@ main {
     font-size: 24px;
     font-weight: 500;
     padding: 0 0 33px 33px;
+    margin-top: 33px;
 }
 
 /* Top Players style */
